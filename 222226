@@ -6,19 +6,19 @@
         <orderType>WEB</orderType>
         <orderDate>2018-05-2</orderDate>
         <currencyCode>EUR</currencyCode>
-        <firstName>HEJ</firstName>
-        <lastName>HOE</lastName>
+        <firstName>CHRISTOFFER</firstName>
+        <lastName>LINDGREN</lastName>
         <payment>
             <paymentMethod>ADN</paymentMethod>
             <paymentMethodDescription>adyen_cc</paymentMethodDescription> 
-            <transactionNo>1234567894</transactionNo>
+            <transactionNo>12345678924</transactionNo>
         </payment>
         <shipping>
             <location>EU_ECOM</location>
-            <shippingDescription>DHL Economy</shippingDescription>
+            <shippingDescription>DHL Express</shippingDescription>
             <shippingMethod>ddp</shippingMethod>
             <carriercode>DHL_SK</carriercode>
-            <carrierservice>ECON</carrierservice>
+            <carrierservice>EXPWW</carrierservice>
             <shippingPrice>0</shippingPrice>
         </shipping>
         <shiptoAddress>
@@ -32,20 +32,20 @@
                 <city>Paris</city>
             </address>
         </shiptoAddress>
-        <grandTotal>249.000</grandTotal>
-        <grandTotalExVat>187.000</grandTotalExVat>
+        <grandTotal>99.000</grandTotal>
+        <grandTotalExVat>74.000</grandTotalExVat>
         <lines>
             <line>
-                <productNo>04090800</productNo>
-                <itemNo>04090800_NOSIZE</itemNo>
-                <unitPriceInclVat>249.000</unitPriceInclVat>
-                <unitPriceExVat>187.000</unitPriceExVat>
+                <productNo>04092110</productNo>
+                <itemNo>04092110_NOSIZE</itemNo>
+                <unitPriceInclVat>99.000</unitPriceInclVat>
+                <unitPriceExVat>74.000</unitPriceExVat>
                 <unitVatPercent>0.0000</unitVatPercent>
                 <quantity>1.0000</quantity>
                 <discountAmount></discountAmount>
-                <lineAmount>249.000</lineAmount>
-                <lineAmountExVat>187.000</lineAmountExVat>
-                <itemDescription>Monitor Black</itemDescription>
+                <lineAmount>99.000</lineAmount>
+                <lineAmountExVat>74.000</lineAmountExVat>
+                <itemDescription>Plattan 2 Bluetooth Black</itemDescription>
             </line>
         </lines>
     </order>
