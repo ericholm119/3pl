@@ -18,7 +18,7 @@
             <shippingDescription>DHL Express</shippingDescription>
             <shippingMethod>ddp</shippingMethod>
             <carriercode>DHL_SK</carriercode>
-            <carrierservice>EXPWW<</carrierservice>
+            <carrierservice>EXPWW</carrierservice>
             <shippingPrice>0</shippingPrice>
         </shipping>
         <shiptoAddress>
